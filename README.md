@@ -1,5 +1,5 @@
 # CursoBigData
-Día 1 - Lunes
+*Día 1 - Lunes*
 
 Presentación
 
